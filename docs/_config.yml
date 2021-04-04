@@ -1,10 +1,10 @@
-title: Read The Docs Jekyll Theme
-description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+title: jao Minecraft Server Developer Documentation
+description: jao Minecraft Server 開発者向けドキュメント
 remote_theme: carlosperate/jekyll-theme-rtd
 
 # Theme settings:
-site_author: Carlos Pereira Atencio
-repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
+site_author: jao Minecraft Server
+repo_url: 'https://github.com/jaoafa/developer-docs'
 edit_on_github: true
 github_docs_folder: true
 sticky_navigation: true
