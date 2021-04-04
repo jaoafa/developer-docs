@@ -1,7 +1,6 @@
 ---
 layout: default
 title: GitHub Index
-nav_exclude: true
 ---
 
 # GitHub
@@ -33,4 +32,4 @@ nav_exclude: true
 
 ## 具体的な解説
 
-- [issueの作り方](create-issue)
+- [issue関連(作成・コメント)](issue)
